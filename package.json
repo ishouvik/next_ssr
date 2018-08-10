@@ -13,6 +13,6 @@
   "scripts": {
     "dev": "next",
     "predeploy": "yarn run build",
-    "predeply": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   }
 }
